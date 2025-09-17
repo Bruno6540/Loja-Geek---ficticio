@@ -39,3 +39,5 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no
 
 Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆
 
+## Link do Site
+https://loja-geek-ficticio1.vercel.app/
